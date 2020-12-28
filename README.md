@@ -10,3 +10,5 @@
 - 3.2 Variable Assignments
 - 3.3 Introduction to Strings
 - 3.4 Indexing and Slicing with Strings
+- 3.5 String Properties and Methods
+- 3.6 Print Formatting with Strings
