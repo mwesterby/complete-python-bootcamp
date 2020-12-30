@@ -2,7 +2,7 @@
 
 My notes and assessments from the 2020 [Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/) course on Udemy.
 
-Thought I'd finally learn Python, and pretty amazed I've made it this far without!
+Thought I'd finally learn Python, and pretty amazed I've made it this far without it!
 
 ### Section 1: Object and Data Structure Basics
 - [1.1 Numbers](/Section%201:%20Objects%20and%20Data%20Structure%20Basics/1.1%20Numbers.ipynb)
