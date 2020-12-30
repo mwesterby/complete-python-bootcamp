@@ -1,7 +1,6 @@
 # complete-python-bootcamp
 
-
-### Section 1 Python Object and Data Structure Basics
+### Section 1: Object and Data Structure Basics
 - 1.1 Numbers
 - 1.2 Variable Assignments
 - 1.3 Strings
@@ -13,3 +12,7 @@
 - 1.9 Booleans
 - 1.10 Files
 - 1.11 Assessment
+
+### Section 2: Comparison Operators
+- 2.1 Comparison Operators
+- 2.2 Chained Comparison Operators
