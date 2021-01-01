@@ -20,3 +20,11 @@ Thought I'd finally learn Python, and pretty amazed I've made it this far withou
 ### Section 2: Comparison Operators
 - [2.1 Comparison Operators](/Section%202:%20Comparison%20Operators/2.1%20Comparison%20Operators.ipynb)
 - [2.2 Chained Comparison Operators](/Section%202:%20Comparison%20Operators/2.2%20Chained%20Comparison%20Operators.ipynb)
+
+### Section 3: Statements
+- [3.1 If Elif and Else Statements](/Section%203:%20Statements/3.1%20If%20Elif%20and%20Else%20Statements.ipynb)
+- [3.2 For Loops](/Section%203:%20Statements/3.2%20For%20Loops.ipynb)
+- [3.3 While Loops](/Section%203:%20Statements/3.3%20While%20Loops.ipynb)
+- [3.4 Useful Operators](/Section%203:%20Statements/3.4%20Useful%20Operators.ipynb)
+- [3.5 List Comprehensions](/Section%203:%20Statements/3.5%20List%20Comprehensions.ipynb)
+- [3.6 Assessment](/Section%203:%20Statements/3.6%20Statements%20Assessment%20Test.ipynb)
