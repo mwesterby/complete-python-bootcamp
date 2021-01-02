@@ -28,3 +28,7 @@ Thought I'd finally learn Python, and pretty amazed I've made it this far withou
 - [3.4 Useful Operators](/Section%203:%20Statements/3.4%20Useful%20Operators.ipynb)
 - [3.5 List Comprehensions](/Section%203:%20Statements/3.5%20List%20Comprehensions.ipynb)
 - [3.6 Assessment](/Section%203:%20Statements/3.6%20Statements%20Assessment%20Test.ipynb)
+
+### Section 4: Methods and Functions
+- [4.1 Methods](/Section%204:%20Methods%20and%20Functions/4.1%20Methods.ipynb)
+- [4.2 Functions](/Section%204:%20Methods%20and%20Functions/4.2%20Functions.ipynb)
