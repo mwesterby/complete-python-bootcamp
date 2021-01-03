@@ -1,6 +1,6 @@
 # complete-python-bootcamp 🐍
 
-My notes and assessments from the 2020 [Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/) course on Udemy.
+My notes and assessments from the 2021 [Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/) course on Udemy.
 
 Thought I'd finally learn Python, and pretty amazed I've made it this far without it!
 
@@ -32,3 +32,5 @@ Thought I'd finally learn Python, and pretty amazed I've made it this far withou
 ### Section 4: Methods and Functions
 - [4.1 Methods](/Section%204:%20Methods%20and%20Functions/4.1%20Methods.ipynb)
 - [4.2 Functions](/Section%204:%20Methods%20and%20Functions/4.2%20Functions.ipynb)
+- [4.3 *args and **kwargs](/Section%204:%20Methods%20and%20Functions/4.3%20args%20and%20kwargs.ipynb)
+- [4.4 Function Practice Exercises](/Section%204:%20Methods%20and%20Functions/4.4%20Function%20Practice%20Exercises.ipynb)
