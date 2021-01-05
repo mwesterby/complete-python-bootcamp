@@ -34,3 +34,6 @@ Thought I'd finally learn Python, and pretty amazed I've made it this far withou
 - [4.2 Functions](/Section%204:%20Methods%20and%20Functions/4.2%20Functions.ipynb)
 - [4.3 *args and **kwargs](/Section%204:%20Methods%20and%20Functions/4.3%20args%20and%20kwargs.ipynb)
 - [4.4 Function Practice Exercises](/Section%204:%20Methods%20and%20Functions/4.4%20Function%20Practice%20Exercises.ipynb)
+- [4.5 Lambda Expressions Map and Filter](/Section%204:%20Methods%20and%20Functions/4.5%20Lambda%20Expressions%20Map%20and%20Filter.ipynb)
+- [4.6 Nested Statements and Scope](/Section%204:%20Methods%20and%20Functions/4.6%20Nested%20Statements%20and%20Scope.ipynb)
+- [4.7 Functions and Methods Homework](/Section%204:%20Methods%20and%20Functions/4.7%20Functions%20and%20Methods%20Homework.ipynb)
