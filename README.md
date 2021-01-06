@@ -37,3 +37,10 @@ Thought I'd finally learn Python, and pretty amazed I've made it this far withou
 - [4.5 Lambda Expressions Map and Filter](/Section%204:%20Methods%20and%20Functions/4.5%20Lambda%20Expressions%20Map%20and%20Filter.ipynb)
 - [4.6 Nested Statements and Scope](/Section%204:%20Methods%20and%20Functions/4.6%20Nested%20Statements%20and%20Scope.ipynb)
 - [4.7 Functions and Methods Homework](/Section%204:%20Methods%20and%20Functions/4.7%20Functions%20and%20Methods%20Homework.ipynb)
+
+### Section 5: Milestone Project 1
+- [5.1 Warm-Up Project Exercises](/Section%205:%20Milestone%20Project%201/5.1%20Warm-Up%20Project%20Exercises.ipynb)
+  - Displaying Information
+  - Accepting User Input
+  - Validating User Input
+  - Simple User Interaction
