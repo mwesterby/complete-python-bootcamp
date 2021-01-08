@@ -44,3 +44,4 @@ Thought I'd finally learn Python, and pretty amazed I've made it this far withou
   - Accepting User Input
   - Validating User Input
   - Simple User Interaction
+- [5.2 Assignment](/Section%205:%20Milestone%20Project%201/5.2%20Assignment.ipynb)
