@@ -4,6 +4,8 @@ My notes and assessments from the 2021 [Complete Python Bootcamp From Zero to He
 
 Thought I'd finally learn Python, and pretty amazed I've made it this far without it!
 
+https://nbviewer.jupyter.org/github/mwesterby/complete-python-bootcamp/
+
 ### Section 1: Object and Data Structure Basics
 - [1.1 Numbers](/Section%201:%20Objects%20and%20Data%20Structure%20Basics/1.1%20Numbers.ipynb)
 - [1.2 Variable Assignments](/Section%201:%20Objects%20and%20Data%20Structure%20Basics//1.2%20Variable%20Assignments.ipynb)
