@@ -40,16 +40,25 @@ https://nbviewer.jupyter.org/github/mwesterby/complete-python-bootcamp/
 - [4.6 Nested Statements and Scope](/Section%204:%20Methods%20and%20Functions/4.6%20Nested%20Statements%20and%20Scope.ipynb)
 - [4.7 Functions and Methods Homework](/Section%204:%20Methods%20and%20Functions/4.7%20Functions%20and%20Methods%20Homework.ipynb)
 
-### Section 5: Milestone Project 1
-- [5.1 Warm-Up Project Exercises](/Section%205:%20Milestone%20Project%201/5.1%20Warm-Up%20Project%20Exercises.ipynb)
-  - Displaying Information
-  - Accepting User Input
-  - Validating User Input
-  - Simple User Interaction
-- [5.2 Assignment (Tic Tac Toe)](/Section%205:%20Milestone%20Project%201/5.2%20Assignment.ipynb)
+### Section 5: Object Oriented Programming
+- [5.1 Attributes and Class Keyword](/Section%205:%20Object%20Oriented%20Programming/5.1%20Attributes%20and%20Class%20Keyword.ipynb)
+- [5.2 Class Object Attributes and Methods](/Section%205:%20Object%20Oriented%20Programming/5.2%20Class%20Object%20Attributes%20and%20Methods.ipynb)
+- [5.3 Inheritance and Polymorphism](/Section%205:%20Object%20Oriented%20Programming/5.3%20Inheritance%20and%20Polymorphism.ipynb)
+- [5.4 Special (Magic/Dunder) Methods](/Section%205:%20Object%20Oriented%20Programming/5.4%20Special%20(Magic%20or%20Dunder)%20Methods.ipynb)
+- [5.5 Object Oriented Programming Homework](/Section%205:%20Object%20Oriented%20Programming/5.5%20Object%20Oriented%20Programming%20Homework.ipynb)
+- [5.6 OOP Challenge](/Section%205:%20Object%20Oriented%20Programming/5.6%20OOP%20Challenge.ipynb)
 
-### Section 6: Object Oriented Programming
-- [6.1 Attributes and Class Keyword](/Section%206:%20Object%20Oriented%20Programming/6.1%20Attributes%20and%20Class%20Keyword.ipynb)
-- [6.2 Class Object Attributes and Methods](/Section%206:%20Object%20Oriented%20Programming/6.2%20Class%20Object%20Attributes%20and%20Methods.ipynb)
-- [6.3 Inheritance and Polymorphism](/Section%206:%20Object%20Oriented%20Programming/6.3%20Inheritance%20and%20Polymorphism.ipynb)
-- [6.4 Special (Magic/Dunder) Methods](/Section%206:%20Object%20Oriented%20Programming/6.4%20Special%20(Magic%20or%20Dunder)%20Methods.ipynb)
+### Section 6: Modules and Packages
+- [6.1 Modules and Packages](/Section%206:%20Modules%20and%20Packages/6.1%20Modules%20and%20Packages)
+- [6.2 \_\_name__ and "main"](/Section%206:%20Modules%20and%20Packages/6.2%20__name__%20and%20"__main__")
+
+<hr />
+
+### Milestone Projects
+- [Milestone Project 1](/Milestone%20Projects/Milestone%20Project%201)
+  - [1.1 Warm-Up Project Exercises](/Milestone%20Projects/Milestone%20Project%201/1.1%20Warm-Up%20Project%20Exercises.ipynb)
+    - Displaying Information
+    - Accepting User Input
+    - Validating User Input
+    - Simple User Interaction
+  - [1.2 Assignment (Tic Tac Toe)](/Milestone%20Projects/Milestone%20Project%201/1.2%20Assignment.ipynb)
