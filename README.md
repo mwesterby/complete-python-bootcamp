@@ -6,7 +6,7 @@ Thought I'd finally learn Python, and pretty amazed I've made it this far withou
 
 https://nbviewer.jupyter.org/github/mwesterby/complete-python-bootcamp/
 
-### Section 1: Object and Data Structure Basics
+### 1: Object and Data Structure Basics
 - [1.1 Numbers](/Section%201:%20Objects%20and%20Data%20Structure%20Basics/1.1%20Numbers.ipynb)
 - [1.2 Variable Assignments](/Section%201:%20Objects%20and%20Data%20Structure%20Basics//1.2%20Variable%20Assignments.ipynb)
 - [1.3 Strings](/Section%201:%20Objects%20and%20Data%20Structure%20Basics/1.3%20Strings.ipynb)
@@ -19,11 +19,11 @@ https://nbviewer.jupyter.org/github/mwesterby/complete-python-bootcamp/
 - [1.10 Files](/Section%201:%20Objects%20and%20Data%20Structure%20Basics/1.10%20Files.ipynb)
 - [1.11 Assessment](/Section%201:%20Objects%20and%20Data%20Structure%20Basics/1.11%20Objects%20and%20Data%20Structures%20Assessment%20Test.ipynb)
 
-### Section 2: Comparison Operators
+### 2: Comparison Operators
 - [2.1 Comparison Operators](/Section%202:%20Comparison%20Operators/2.1%20Comparison%20Operators.ipynb)
 - [2.2 Chained Comparison Operators](/Section%202:%20Comparison%20Operators/2.2%20Chained%20Comparison%20Operators.ipynb)
 
-### Section 3: Statements
+### 3: Statements
 - [3.1 If Elif and Else Statements](/Section%203:%20Statements/3.1%20If%20Elif%20and%20Else%20Statements.ipynb)
 - [3.2 For Loops](/Section%203:%20Statements/3.2%20For%20Loops.ipynb)
 - [3.3 While Loops](/Section%203:%20Statements/3.3%20While%20Loops.ipynb)
@@ -31,7 +31,7 @@ https://nbviewer.jupyter.org/github/mwesterby/complete-python-bootcamp/
 - [3.5 List Comprehensions](/Section%203:%20Statements/3.5%20List%20Comprehensions.ipynb)
 - [3.6 Assessment](/Section%203:%20Statements/3.6%20Statements%20Assessment%20Test.ipynb)
 
-### Section 4: Methods and Functions
+### 4: Methods and Functions
 - [4.1 Methods](/Section%204:%20Methods%20and%20Functions/4.1%20Methods.ipynb)
 - [4.2 Functions](/Section%204:%20Methods%20and%20Functions/4.2%20Functions.ipynb)
 - [4.3 *args and **kwargs](/Section%204:%20Methods%20and%20Functions/4.3%20args%20and%20kwargs.ipynb)
@@ -40,7 +40,7 @@ https://nbviewer.jupyter.org/github/mwesterby/complete-python-bootcamp/
 - [4.6 Nested Statements and Scope](/Section%204:%20Methods%20and%20Functions/4.6%20Nested%20Statements%20and%20Scope.ipynb)
 - [4.7 Functions and Methods Homework](/Section%204:%20Methods%20and%20Functions/4.7%20Functions%20and%20Methods%20Homework.ipynb)
 
-### Section 5: Object Oriented Programming
+### 5: Object Oriented Programming
 - [5.1 Attributes and Class Keyword](/Section%205:%20Object%20Oriented%20Programming/5.1%20Attributes%20and%20Class%20Keyword.ipynb)
 - [5.2 Class Object Attributes and Methods](/Section%205:%20Object%20Oriented%20Programming/5.2%20Class%20Object%20Attributes%20and%20Methods.ipynb)
 - [5.3 Inheritance and Polymorphism](/Section%205:%20Object%20Oriented%20Programming/5.3%20Inheritance%20and%20Polymorphism.ipynb)
@@ -48,9 +48,13 @@ https://nbviewer.jupyter.org/github/mwesterby/complete-python-bootcamp/
 - [5.5 Object Oriented Programming Homework](/Section%205:%20Object%20Oriented%20Programming/5.5%20Object%20Oriented%20Programming%20Homework.ipynb)
 - [5.6 OOP Challenge](/Section%205:%20Object%20Oriented%20Programming/5.6%20OOP%20Challenge.ipynb)
 
-### Section 6: Modules and Packages
+### 6: Modules and Packages
 - [6.1 Modules and Packages](/Section%206:%20Modules%20and%20Packages/6.1%20Modules%20and%20Packages)
 - [6.2 \_\_name__ and "main"](/Section%206:%20Modules%20and%20Packages/6.2%20__name__%20and%20"__main__")
+
+### 7: Errors and Exception Handling
+- [7.1 Errors and Exception Handling](/Section%207:%20Errors%20and%20Exception%20Handling/7.1%20Errors%20and%20Exception%20Handling.ipynb)
+- [7.2 Errors and Exception Handling Homework](/Section%207:%20Errors%20and%20Exception%20Handling/7.2%20Errors%20and%20Exceptions%20Homework.ipynb)
 
 <hr />
 
