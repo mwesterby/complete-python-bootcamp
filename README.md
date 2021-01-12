@@ -55,6 +55,9 @@ https://nbviewer.jupyter.org/github/mwesterby/complete-python-bootcamp/
 ### 7: Errors and Exception Handling
 - [7.1 Errors and Exception Handling](/Section%207:%20Errors%20and%20Exception%20Handling/7.1%20Errors%20and%20Exception%20Handling.ipynb)
 - [7.2 Errors and Exception Handling Homework](/Section%207:%20Errors%20and%20Exception%20Handling/7.2%20Errors%20and%20Exceptions%20Homework.ipynb)
+- [7.3 Pylint Overview](/Section%207:%20Errors%20and%20Exception%20Handling/7.3%20Pylint%20Overview)
+- [7.4 Running Tests With The Unittest Library](/Section%207:%20Errors%20and%20Exception%20Handling/7.4%20Running%20Tests%20With%20The%20Unittest%20Library)
+
 
 <hr />
 
