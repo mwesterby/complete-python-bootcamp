@@ -69,3 +69,6 @@ https://nbviewer.jupyter.org/github/mwesterby/complete-python-bootcamp/
     - Validating User Input
     - Simple User Interaction
   - [1.2 Assignment (Tic Tac Toe)](/Milestone%20Projects/Milestone%20Project%201/1.2%20Assignment.ipynb)
+- [Milestone Project 2](/Milestone%20Projects/Milestone%20Project%202)
+  - [2.1 Warm-up Project (War Card Game)](/Milestone%20Projects/Milestone%20Project%202/2.1%20Milestone%202%20Warmup%20Project.ipynb)
+
