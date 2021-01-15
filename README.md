@@ -58,6 +58,8 @@ https://nbviewer.jupyter.org/github/mwesterby/complete-python-bootcamp/
 - [7.3 Pylint Overview](/Section%207:%20Errors%20and%20Exception%20Handling/7.3%20Pylint%20Overview)
 - [7.4 Running Tests With The Unittest Library](/Section%207:%20Errors%20and%20Exception%20Handling/7.4%20Running%20Tests%20With%20The%20Unittest%20Library)
 
+### 8: Decorators
+- [8.1 Decorators](/Section%208:%20Decorators/8.1%20Decorators.ipynb)
 
 <hr />
 
