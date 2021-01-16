@@ -61,6 +61,13 @@ https://nbviewer.jupyter.org/github/mwesterby/complete-python-bootcamp/
 ### 8: Decorators
 - [8.1 Decorators](/08:%20Decorators/8.1%20Decorators.ipynb)
 
+### 9: Generators
+- [9.1 Iterators and Generators](/09:%20Generators/9.1%20Iterators%20and%20Generators.ipynb)
+- [9.2 Iterators and Generators Homework](/09:%20Generators/9.2%20Iterators%20and%20Generators%20Homework.ipynb)
+
+### 10: Advanced Modules
+- [10.1 Collections Module](/10:%20Advanced%20Modules/10.1%20Collections%20Module.ipynb)
+
 <hr />
 
 ### Milestone Projects
