@@ -70,6 +70,8 @@ https://nbviewer.jupyter.org/github/mwesterby/complete-python-bootcamp/
 - [10.2 Opening and Reading Files and Folders](/10:%20Advanced%20Modules/10.2%20Opening%20and%20Reading%20Files%20and%20Folders.ipynb)
 - [10.3 Datetime Module](/10:%20Advanced%20Modules/10.3%20Datetime%20Module.ipynb)
 - [10.4 Math and Random Modules](/10:%20Advanced%20Modules/10.4%20Math%20and%20Random%20Modules.ipynb)
+- [10.5 Debugger](/10:%20Advanced%20Modules/10.5%20Debugger.ipynb)
+- [10.6 Regular Expressions](/10:%20Advanced%20Modules/10.6%20Regular%20Expressions.ipynb)
 
 <hr />
 
