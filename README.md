@@ -72,6 +72,8 @@ https://nbviewer.jupyter.org/github/mwesterby/complete-python-bootcamp/
 - [10.4 Math and Random Modules](/10:%20Advanced%20Modules/10.4%20Math%20and%20Random%20Modules.ipynb)
 - [10.5 Debugger](/10:%20Advanced%20Modules/10.5%20Debugger.ipynb)
 - [10.6 Regular Expressions](/10:%20Advanced%20Modules/10.6%20Regular%20Expressions.ipynb)
+- [10.7 Timing Your Code](/10:%20Advanced%20Modules/10.7%20Timing%20Your%20Code.ipynb)
+- [10.8 Zipping and Unzipping Files](/10:%20Advanced%20Modules/10.8%20Zipping%20and%20Unzipping%20Files/10.8%20Zipping%20and%20Unzipping%20Files.ipynb)
 
 <hr />
 
