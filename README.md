@@ -6,7 +6,7 @@ Thought I'd finally learn Python, and pretty amazed I've made it this far withou
 
 https://nbviewer.jupyter.org/github/mwesterby/complete-python-bootcamp/
 
-### 1: Object and Data Structure Basics
+### 1. Object and Data Structure Basics
 - [1.1 Numbers](/01:%20Objects%20and%20Data%20Structure%20Basics/1.1%20Numbers.ipynb)
 - [1.2 Variable Assignments](/01:%20Objects%20and%20Data%20Structure%20Basics//1.2%20Variable%20Assignments.ipynb)
 - [1.3 Strings](/01:%20Objects%20and%20Data%20Structure%20Basics/1.3%20Strings.ipynb)
@@ -19,11 +19,11 @@ https://nbviewer.jupyter.org/github/mwesterby/complete-python-bootcamp/
 - [1.10 Files](/01:%20Objects%20and%20Data%20Structure%20Basics/1.10%20Files.ipynb)
 - [1.11 Assessment](/01:%20Objects%20and%20Data%20Structure%20Basics/1.11%20Objects%20and%20Data%20Structures%20Assessment%20Test.ipynb)
 
-### 2: Comparison Operators
+### 2. Comparison Operators
 - [2.1 Comparison Operators](/02:%20Comparison%20Operators/2.1%20Comparison%20Operators.ipynb)
 - [2.2 Chained Comparison Operators](/02:%20Comparison%20Operators/2.2%20Chained%20Comparison%20Operators.ipynb)
 
-### 3: Statements
+### 3. Statements
 - [3.1 If Elif and Else Statements](/03:%20Statements/3.1%20If%20Elif%20and%20Else%20Statements.ipynb)
 - [3.2 For Loops](/03:%20Statements/3.2%20For%20Loops.ipynb)
 - [3.3 While Loops](/03:%20Statements/3.3%20While%20Loops.ipynb)
@@ -31,7 +31,7 @@ https://nbviewer.jupyter.org/github/mwesterby/complete-python-bootcamp/
 - [3.5 List Comprehensions](/03:%20Statements/3.5%20List%20Comprehensions.ipynb)
 - [3.6 Assessment](/03:%20Statements/3.6%20Statements%20Assessment%20Test.ipynb)
 
-### 4: Methods and Functions
+### 4. Methods and Functions
 - [4.1 Methods](/04:%20Methods%20and%20Functions/4.1%20Methods.ipynb)
 - [4.2 Functions](/04:%20Methods%20and%20Functions/4.2%20Functions.ipynb)
 - [4.3 *args and **kwargs](/04:%20Methods%20and%20Functions/4.3%20args%20and%20kwargs.ipynb)
@@ -40,7 +40,7 @@ https://nbviewer.jupyter.org/github/mwesterby/complete-python-bootcamp/
 - [4.6 Nested Statements and Scope](/04:%20Methods%20and%20Functions/4.6%20Nested%20Statements%20and%20Scope.ipynb)
 - [4.7 Functions and Methods Homework](/04:%20Methods%20and%20Functions/4.7%20Functions%20and%20Methods%20Homework.ipynb)
 
-### 5: Object Oriented Programming
+### 5. Object Oriented Programming
 - [5.1 Attributes and Class Keyword](/05:%20Object%20Oriented%20Programming/5.1%20Attributes%20and%20Class%20Keyword.ipynb)
 - [5.2 Class Object Attributes and Methods](/05:%20Object%20Oriented%20Programming/5.2%20Class%20Object%20Attributes%20and%20Methods.ipynb)
 - [5.3 Inheritance and Polymorphism](/05:%20Object%20Oriented%20Programming/5.3%20Inheritance%20and%20Polymorphism.ipynb)
@@ -48,25 +48,28 @@ https://nbviewer.jupyter.org/github/mwesterby/complete-python-bootcamp/
 - [5.5 Object Oriented Programming Homework](/05:%20Object%20Oriented%20Programming/5.5%20Object%20Oriented%20Programming%20Homework.ipynb)
 - [5.6 OOP Challenge](/05:%20Object%20Oriented%20Programming/5.6%20OOP%20Challenge.ipynb)
 
-### 6: Modules and Packages
+### 6. Modules and Packages
 - [6.1 Modules and Packages](/06:%20Modules%20and%20Packages/6.1%20Modules%20and%20Packages)
 - [6.2 \_\_name__ and "main"](/06:%20Modules%20and%20Packages/6.2%20__name__%20and%20"__main__")
 
-### 7: Errors and Exception Handling
+### 7. Errors and Exception Handling
 - [7.1 Errors and Exception Handling](/07:%20Errors%20and%20Exception%20Handling/7.1%20Errors%20and%20Exception%20Handling.ipynb)
 - [7.2 Errors and Exception Handling Homework](/07:%20Errors%20and%20Exception%20Handling/7.2%20Errors%20and%20Exceptions%20Homework.ipynb)
 - [7.3 Pylint Overview](/07:%20Errors%20and%20Exception%20Handling/7.3%20Pylint%20Overview)
 - [7.4 Running Tests With The Unittest Library](/07:%20Errors%20and%20Exception%20Handling/7.4%20Running%20Tests%20With%20The%20Unittest%20Library)
 
-### 8: Decorators
+### 8. Decorators
 - [8.1 Decorators](/08:%20Decorators/8.1%20Decorators.ipynb)
 
-### 9: Generators
+### 9. Generators
 - [9.1 Iterators and Generators](/09:%20Generators/9.1%20Iterators%20and%20Generators.ipynb)
 - [9.2 Iterators and Generators Homework](/09:%20Generators/9.2%20Iterators%20and%20Generators%20Homework.ipynb)
 
-### 10: Advanced Modules
+### 10. Advanced Modules
 - [10.1 Collections Module](/10:%20Advanced%20Modules/10.1%20Collections%20Module.ipynb)
+  - Counter 
+  - Default Dictionary
+  - Named Tuple
 - [10.2 Opening and Reading Files and Folders](/10:%20Advanced%20Modules/10.2%20Opening%20and%20Reading%20Files%20and%20Folders.ipynb)
 - [10.3 Datetime Module](/10:%20Advanced%20Modules/10.3%20Datetime%20Module.ipynb)
 - [10.4 Math and Random Modules](/10:%20Advanced%20Modules/10.4%20Math%20and%20Random%20Modules.ipynb)
@@ -75,6 +78,9 @@ https://nbviewer.jupyter.org/github/mwesterby/complete-python-bootcamp/
 - [10.7 Timing Your Code](/10:%20Advanced%20Modules/10.7%20Timing%20Your%20Code.ipynb)
 - [10.8 Zipping and Unzipping Files](/10:%20Advanced%20Modules/10.8%20Zipping%20and%20Unzipping%20Files/10.8%20Zipping%20and%20Unzipping%20Files.ipynb)
 - [10.9 Advanced Modules Exercise Puzzle](/10:%20Advanced%20Modules/10.9%20Advanced%20Modules%20Exercise/10.9%20Advanced%20Modules%20Exercise%20Puzzle.ipynb)
+
+### 11. Web Scraping
+
 
 <hr />
 
