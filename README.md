@@ -80,6 +80,7 @@ https.//nbviewer.jupyter.org/github/mwesterby/complete-python-bootcamp/
 - [10.9 Advanced Modules Exercise Puzzle](/10.%20Advanced%20Modules/10.9%20Advanced%20Modules%20Exercise/10.9%20Advanced%20Modules%20Exercise%20Puzzle.ipynb)
 
 ### 11. Web Scraping
+- [11.1 Web Scraping](/11.%20Web%20Scraping/11.1%20Web%20Scraping.ipynb)
 
 
 <hr />
