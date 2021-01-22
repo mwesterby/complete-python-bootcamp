@@ -81,7 +81,8 @@ https.//nbviewer.jupyter.org/github/mwesterby/complete-python-bootcamp/
 
 ### 11. Web Scraping
 - [11.1 Web Scraping](/11.%20Web%20Scraping/11.1%20Web%20Scraping.ipynb)
-
+- [11.2 Web Scraping (Book Examples)](/11.%20Web%20Scraping/11.2%20Web%20Scraping%20(Book%20Examples).ipynb)
+- [11.3 Web Scraping Exercises](/11.%20Web%20Scraping/11.3%20Web%20Scraping%20Exercises.ipynb)
 
 <hr />
 
