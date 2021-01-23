@@ -84,6 +84,17 @@ https.//nbviewer.jupyter.org/github/mwesterby/complete-python-bootcamp/
 - [11.2 Web Scraping (Book Examples)](/11.%20Web%20Scraping/11.2%20Web%20Scraping%20(Book%20Examples).ipynb)
 - [11.3 Web Scraping Exercises](/11.%20Web%20Scraping/11.3%20Web%20Scraping%20Exercises.ipynb)
 
+### 12. Working with Images
+- [12.1 Working with Images](/12.%20Working%20with%20Images/12.1%20Working%20with%20Images.ipynb)
+  - Open
+  - Crop
+  - Copy and Paste
+  - Resize
+  - Rotate
+  - Transparency
+  - Masks
+- [12.2 Image Exercise](/12.%20Working%20with%20Images/12.2%20Image%20Exercise.ipynb)
+
 <hr />
 
 ### Milestone Projects
