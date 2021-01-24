@@ -95,6 +95,9 @@ https.//nbviewer.jupyter.org/github/mwesterby/complete-python-bootcamp/
   - Masks
 - [12.2 Image Exercise](/12.%20Working%20with%20Images/12.2%20Image%20Exercise.ipynb)
 
+### 13. PDFs and Spreadsheets
+- [13.1 Working with CSV Files](/13.%20PDFs%20and%20Spreadsheets/13.1%20Working%20with%20CSV%20Files.ipynb)
+
 <hr />
 
 ### Milestone Projects
