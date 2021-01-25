@@ -97,6 +97,8 @@ https.//nbviewer.jupyter.org/github/mwesterby/complete-python-bootcamp/
 
 ### 13. PDFs and Spreadsheets
 - [13.1 Working with CSV Files](/13.%20PDFs%20and%20Spreadsheets/13.1%20Working%20with%20CSV%20Files.ipynb)
+- [13.2 Working with PDF Files](/13.%20PDFs%20and%20Spreadsheets/13.2%20Working%20with%20PDF%20Files.ipynb)
+- [13.3 PDFs and Spreadsheets Puzzle](/13.%20PDFs%20and%20Spreadsheets/13.3%20PDFs%20and%20Spreadsheets%20Puzzle.ipynb)
 
 <hr />
 
