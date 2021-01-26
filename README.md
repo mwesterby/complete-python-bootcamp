@@ -1,10 +1,10 @@
 # complete-python-bootcamp 🐍
 
-My notes and assessments from the 2021 [Complete Python Bootcamp From Zero to Hero in Python](https.//www.udemy.com/course/complete-python-bootcamp/) course on Udemy.
+My notes and assessments from the 2021 [Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/) course on Udemy.
 
 Thought I'd finally learn Python, and pretty amazed I've made it this far without it!
 
-https.//nbviewer.jupyter.org/github/mwesterby/complete-python-bootcamp/
+https://nbviewer.jupyter.org/github/mwesterby/complete-python-bootcamp/
 
 ### 1. Object and Data Structure Basics
 - [1.1 Numbers](/01.%20Objects%20and%20Data%20Structure%20Basics/1.1%20Numbers.ipynb)
@@ -99,6 +99,10 @@ https.//nbviewer.jupyter.org/github/mwesterby/complete-python-bootcamp/
 - [13.1 Working with CSV Files](/13.%20PDFs%20and%20Spreadsheets/13.1%20Working%20with%20CSV%20Files.ipynb)
 - [13.2 Working with PDF Files](/13.%20PDFs%20and%20Spreadsheets/13.2%20Working%20with%20PDF%20Files.ipynb)
 - [13.3 PDFs and Spreadsheets Puzzle](/13.%20PDFs%20and%20Spreadsheets/13.3%20PDFs%20and%20Spreadsheets%20Puzzle.ipynb)
+
+### 14. Emails
+- [14.1 Sending Emails](/14.%20Emails/14.1%20Sending%20Emails.ipynb)
+- [14.2 Receiving Emails](/14.%20Emails/14.2%20Receiving%20Emails.ipynb)
 
 <hr />
 
