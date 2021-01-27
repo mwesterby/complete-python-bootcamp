@@ -119,3 +119,5 @@ https://nbviewer.jupyter.org/github/mwesterby/complete-python-bootcamp/
     - [war.py](/Milestone%20Projects/Milestone%20Project%202/war.py)
    - [2.2 Assignment (Blackjack)](/Milestone%20Projects/Milestone%20Project%202/2.2%20Assignment.ipynb)
      - [blackjack.py](/Milestone%20Projects/Milestone%20Project%202/blackjack.py)
+- [Capstone Project](/Milestone%20Projects/Capstone%20Project)
+  - [3.1 Capstone Project (Sorting Algorithms)](/Milestone%20Projects/Capstone%20Project/3.1%20Capstone%20Project.ipynb)
