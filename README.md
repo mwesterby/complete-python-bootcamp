@@ -104,6 +104,10 @@ https://nbviewer.jupyter.org/github/mwesterby/complete-python-bootcamp/
 - [14.1 Sending Emails](/14.%20Emails/14.1%20Sending%20Emails.ipynb)
 - [14.2 Receiving Emails](/14.%20Emails/14.2%20Receiving%20Emails.ipynb)
 
+### 15. Advanced Objects and Data Structures
+- [15.1 Advanced Numbers](/15.%20Advanced%20Objects%20and%20Data%20Structures/15.1%20Advanced%20Numbers.ipynb)
+- [15.2 Advanced Strings](/15.%20Advanced%20Objects%20and%20Data%20Structures/15.2%20Advanced%20Strings.ipynb)
+
 <hr />
 
 ### Milestone Projects
