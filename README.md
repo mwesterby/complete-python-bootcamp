@@ -107,6 +107,7 @@ https://nbviewer.jupyter.org/github/mwesterby/complete-python-bootcamp/
 ### 15. Advanced Objects and Data Structures
 - [15.1 Advanced Numbers](/15.%20Advanced%20Objects%20and%20Data%20Structures/15.1%20Advanced%20Numbers.ipynb)
 - [15.2 Advanced Strings](/15.%20Advanced%20Objects%20and%20Data%20Structures/15.2%20Advanced%20Strings.ipynb)
+- [15.3 Advanced Sets](/15.%20Advanced%20Objects%20and%20Data%20Structures/15.3%20Advanced%20Sets.ipynb)
 
 <hr />
 
