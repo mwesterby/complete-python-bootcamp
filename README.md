@@ -112,6 +112,13 @@ https://nbviewer.jupyter.org/github/mwesterby/complete-python-bootcamp/
 - [15.5 Advanced Lists](/15.%20Advanced%20Objects%20and%20Data%20Structures/15.5%20Advanced%20Lists.ipynb)
 - [15.6 Advanced Objects Test](/15.%20Advanced%20Objects%20and%20Data%20Structures/15.6%20Advanced%20Objects%20Test.ipynb)
 
+### 16. Introduction to GUIs
+- [16.1 Interact](/16.%20Introduction%20to%20GUIs/16.1%20Interact.ipynb)
+- [16.2 Widget Basics](/16.%20Introduction%20to%20GUIs/16.2%20Widget%20Basics.ipynb)
+- [16.3 Widget List](/16.%20Introduction%20to%20GUIs/16.3%20Widget%20List.ipynb)
+- [16.4 Widget Styling and Layout](/16.%20Introduction%20to%20GUIs/16.4%20Widget%20Styling%20and%20Layout.ipynb)
+- [16.5 Custom Widget](/16.%20Introduction%20to%20GUIs/16.5%20Custom%20Widget.ipynb)
+
 <hr />
 
 ### Milestone Projects
