@@ -1,10 +1,15 @@
 # complete-python-bootcamp 🐍
 
-My notes and assessments from the 2021 [Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/) course on Udemy.
+My notes and assessments from the 2021 [Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/) course on Udemy. Thought I'd finally learn Python, and pretty amazed I've made it this far without it!
 
-Thought I'd finally learn Python, and pretty amazed I've made it this far without it!
+### Setup
+This repo can  be viewed on [nbviewer](https://nbviewer.jupyter.org/github/mwesterby/complete-python-bootcamp/) for better rendering of the Jupyter Notebooks than in GitHub. Alternatively, to look at the files locally and interact with the notebooks:
 
-https://nbviewer.jupyter.org/github/mwesterby/complete-python-bootcamp/
+1. Download and install the [Anaconda Individual Edition](https://www.anaconda.com/products/individual).
+2. Open the Anaconda Navigator and launch Jupyter Notebook.
+3. Clone this repo and navigate to its directory in the Jupyter Notebook file browser. Then open the notebook of interest.
+
+# Course Contents
 
 ### 1. Object and Data Structure Basics
 - [1.1 Numbers](/01.%20Objects%20and%20Data%20Structure%20Basics/1.1%20Numbers.ipynb)
@@ -119,20 +124,22 @@ https://nbviewer.jupyter.org/github/mwesterby/complete-python-bootcamp/
 - [16.4 Widget Styling and Layout](/16.%20Introduction%20to%20GUIs/16.4%20Widget%20Styling%20and%20Layout.ipynb)
 - [16.5 Custom Widget](/16.%20Introduction%20to%20GUIs/16.5%20Custom%20Widget.ipynb)
 
-<hr />
 
-### Milestone Projects
-- [Milestone Project 1](/Milestone%20Projects/Milestone%20Project%201)
+
+## Milestone Projects
+### Milestone Project 1
   - [1.1 Warm-Up Project Exercises](/Milestone%20Projects/Milestone%20Project%201/1.1%20Warm-Up%20Project%20Exercises.ipynb)
     - Displaying Information
     - Accepting User Input
     - Validating User Input
     - Simple User Interaction
   - [1.2 Assignment (Tic Tac Toe)](/Milestone%20Projects/Milestone%20Project%201/1.2%20Assignment.ipynb)
-- [Milestone Project 2](/Milestone%20Projects/Milestone%20Project%202)
+
+### Milestone Project 2
   - [2.1 Warm-up Project (War Card Game)](/Milestone%20Projects/Milestone%20Project%202/2.1%20Milestone%202%20Warmup%20Project.ipynb)
     - [war.py](/Milestone%20Projects/Milestone%20Project%202/war.py)
    - [2.2 Assignment (Blackjack)](/Milestone%20Projects/Milestone%20Project%202/2.2%20Assignment.ipynb)
      - [blackjack.py](/Milestone%20Projects/Milestone%20Project%202/blackjack.py)
-- [Capstone Project](/Milestone%20Projects/Capstone%20Project)
+
+### Capstone Project
   - [3.1 Capstone Project (Sorting Algorithms)](/Milestone%20Projects/Capstone%20Project/3.1%20Capstone%20Project.ipynb)
